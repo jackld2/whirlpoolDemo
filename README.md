@@ -1,6 +1,4 @@
-# Modular Clothes Dryer in VR
-
-# Click for Video
+# Click for Demo Video
 [![Demo](https://img.youtube.com/vi/n_jVlqtbQlE/0.jpg)](https://youtu.be/n_jVlqtbQlE)
 
 # Background
