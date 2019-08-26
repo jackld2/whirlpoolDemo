@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 07d5ca32892daf945892af9b2f9f9871
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Agitators
+    100002: Body
+    100004: Cable
+    100006: Door
+    100008: Door Ring
+    100010: Drive Pulley
+    100012: Drum
+    100014: fanblock
+    100016: //RootNode
+    100018: Front
+    100020: Heat Shell
+    100022: HeatingElements
+    100024: Idler Pulley
+    100026: Knobs
+    100028: LintTrap
+    100030: Lintvent
+    100032: Motor
+    100034: roller wheels
+    100036: turbine
+    400000: Agitators
+    400002: Body
+    400004: Cable
+    400006: Door
+    400008: Door Ring
+    400010: Drive Pulley
+    400012: Drum
+    400014: fanblock
+    400016: //RootNode
+    400018: Front
+    400020: Heat Shell
+    400022: HeatingElements
+    400024: Idler Pulley
+    400026: Knobs
+    400028: LintTrap
+    400030: Lintvent
+    400032: Motor
+    400034: roller wheels
+    400036: turbine
+    2100000: material
+    2100002: No Name
+    2300000: Agitators
+    2300002: Body
+    2300004: Cable
+    2300006: Door
+    2300008: Door Ring
+    2300010: Drive Pulley
+    2300012: Drum
+    2300014: fanblock
+    2300016: Front
+    2300018: Heat Shell
+    2300020: HeatingElements
+    2300022: Idler Pulley
+    2300024: Knobs
+    2300026: LintTrap
+    2300028: Lintvent
+    2300030: Motor
+    2300032: roller wheels
+    2300034: turbine
+    3300000: Agitators
+    3300002: Body
+    3300004: Cable
+    3300006: Door
+    3300008: Door Ring
+    3300010: Drive Pulley
+    3300012: Drum
+    3300014: fanblock
+    3300016: Front
+    3300018: Heat Shell
+    3300020: HeatingElements
+    3300022: Idler Pulley
+    3300024: Knobs
+    3300026: LintTrap
+    3300028: Lintvent
+    3300030: Motor
+    3300032: roller wheels
+    3300034: turbine
+    4300000: Knobs
+    4300002: roller wheels
+    4300004: Door Ring
+    4300006: Agitators
+    4300008: Drum
+    4300010: HeatingElements
+    4300012: Cable
+    4300014: Lintvent
+    4300016: Idler Pulley
+    4300018: Drive Pulley
+    4300020: Motor
+    4300022: fanblock
+    4300024: turbine
+    4300026: Heat Shell
+    4300028: Door
+    4300030: Front
+    4300032: Body
+    4300034: LintTrap
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
